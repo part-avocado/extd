@@ -1,5 +1,5 @@
 import sys
-from errocodes import err
+from errorcodes import err
 
 def errorExit(code, message = None):
   err(code, message)
