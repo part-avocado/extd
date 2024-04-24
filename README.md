@@ -1,3 +1,3 @@
 # EXTD
-EXTD is a versatile and simple error code package. 
 
+Hmm... This isn't finished yet. Check back again later or follow this repo to get the latest updates!
